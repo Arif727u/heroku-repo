@@ -19,7 +19,7 @@ This will clone the applications repo to your local filesystem. No collaboration
 ### download
 
     $ heroku repo:download -a appname
-
+<Deploy>(https://github.com/Arif727u/heroku-repo/edit/master/README.md)
 This will download the applications repo as a tarball.
 
 ### gc
